@@ -1,2 +1,0 @@
-# SmartLock
-Senior Design Project
